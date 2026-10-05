@@ -1,10 +1,10 @@
 {
   "base_date": "28.09.2026",
-  "generated_at": "2026-10-05T00:15:57+03:00",
+  "generated_at": "2026-10-05T21:37:40+03:00",
   "last_checked_date": "05.10.2026",
-  "last_data_date": "04.10.2026",
-  "record_count": 145,
+  "last_data_date": "05.10.2026",
+  "record_count": 174,
   "records_url": "https://raw.githubusercontent.com/Kamtor34/GaziantepDefinUpdates/main/data/updates_since_2026_09_29.jsonl.gz",
   "schema_version": 1,
-  "sha256": "d1fc8425bd62a01c0ff6be0d4025e5693a949670987fcb9b7bcb706222d326c9"
+  "sha256": "81d7d69dd3ed1245a6bf4cebf780e3a9c50c30bd478a5292692df6f4e3ff0ec1"
 }
